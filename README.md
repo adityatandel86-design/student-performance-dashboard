@@ -59,7 +59,8 @@ Relationships were created between all Fact and Dimension tables with proper car
 
 ## 📷 Relationships
 
-![Relationships](<img width="1920" height="1080" alt="relation" src="https://github.com/user-attachments/assets/5bd0c16d-b72b-42fc-a45c-ab1d9ae5bff5" />)
+![Relationships]<img width="1920" height="1080" alt="relation" src="https://github.com/user-attachments/assets/f8a8c271-495e-4a43-a52e-289f3d0e0cbd" />
+
 
 
 ---
@@ -111,7 +112,8 @@ Relationships were created between all Fact and Dimension tables with proper car
 
 ## 📷 Matrix Visual
 
-![Matrix Visual](<img width="1920" height="1080" alt="matrix visual" src="https://github.com/user-attachments/assets/fd4bab1e-7805-48f4-8868-a1d864f243f5" />)
+![Matrix Visual]<img width="1920" height="1080" alt="matrix visual" src="https://github.com/user-attachments/assets/42cdcef7-9555-4ec7-9831-1ba072633109" />
+
 
 
 ---
