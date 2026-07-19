@@ -46,7 +46,8 @@ A Star Schema model was created by connecting all Dimension tables with the Fact
 
 ## 📷 Model View
 
-![Model View](<img width="1920" height="1080" alt="2" src="https://github.com/user-attachments/assets/429737fe-68d2-4e1b-80e2-6055b77331d7" />)
+![Model View](<img width="1920" height="1080" alt="2" src="https://github.com/user-attachments/assets/b273909e-e13e-4956-911c-0d72519f7ac3" />)
+
 
 
 ---
